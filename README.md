@@ -11,7 +11,7 @@ Obtenha seus cursos das plataformas Udemy, Kiwify, Nutror.
 <hr>
 
 ### Como Usar
-1. Execute o [Ffmpeg server]("https://github.com/PauloCesar0073/GET_COURSES/tree/main/server") e mantenha-o em execução.
+1. Execute o [Ffmpeg server](https://github.com/PauloCesar0073/GET_COURSES/tree/main/server) e mantenha-o em execução.
 2. Abra a página da plataforma (faça login), abra a extensão e selecione a plataforma desejada para obter seus cursos que você está inscrito.
 3. Selecione o download e aguarde o Ffmpeg baixar.
 
